@@ -3,7 +3,7 @@ name = "SigmaOS-release-engineering"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "release-engineering component"
+description = "Release Engineering"
 upstream = []
 
 [contract]
